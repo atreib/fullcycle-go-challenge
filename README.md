@@ -1,5 +1,7 @@
 # GoLang Challenge - Full Cycle 2.0
 
+You can find this image on: https://hub.docker.com/r/atreib/fullcycle-go-challenge
+
 ## Challenge statement
 
 ```
